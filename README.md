@@ -1,6 +1,9 @@
 ## Using CodeBuild and CodePipeline to Deploy AWS Applications
 
+Created ECR repository flask-cluster-manual using AWS CLI
 
+
+Edit yml file to login using region specific
 
 ====================================================================
 ## AWS Docker Templates - Flask
